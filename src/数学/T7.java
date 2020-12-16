@@ -1,5 +1,6 @@
 package 数学;
 
+//7. 整数反转
 public class T7 {
     public int reverse(int x) {
         int res = 0;
