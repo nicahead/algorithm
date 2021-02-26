@@ -3,9 +3,9 @@
 
 ## 链表
 
-- [1.找出两个链表的交点](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/) 160. 相交链表 `简单` `双指针` √
-- [2. 链表反转](https://leetcode-cn.com/problems/reverse-linked-list/description/)
-- [3. 归并两个有序的链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)
+- [1.找出两个链表的交点](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/) `160. 相交链表` `简单` `双指针` √
+- [2. 链表反转](https://leetcode-cn.com/problems/reverse-linked-list/description/) 
+- [3. 归并两个有序的链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/) `21. 合并两个有序链表` `简单` `双指针` `递归` √
 - [4. 从有序链表中删除重复节点](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/)
 - [5. 删除链表的倒数第 n 个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/)
 - [6. 交换链表中的相邻结点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/)
