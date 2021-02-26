@@ -7,7 +7,7 @@
 - [2. 链表反转](https://leetcode-cn.com/problems/reverse-linked-list/description/) 
 - [3. 归并两个有序的链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/) `21. 合并两个有序链表` `简单` `双指针` `递归` √
 - [4. 从有序链表中删除重复节点](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) `83. 删除排序链表中的重复元素` `简单` √
-- [5. 删除链表的倒数第 n 个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/)
+- [5. 删除链表的倒数第 n 个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/) `19. 删除链表的倒数第 N 个结点` `中等` `快慢指针` √
 - [6. 交换链表中的相邻结点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/)
 - [7. 链表求和](https://leetcode-cn.com/problems/add-two-numbers-ii/description/)
 - [8. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/)
