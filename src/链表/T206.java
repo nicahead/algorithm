@@ -37,7 +37,7 @@ public class T206 {
     // https://zhuanlan.zhihu.com/p/86745433
     public ListNode reverseList(ListNode head) {
         // 只有一个节点，则直接返回该节点
-        if (head.next == null)
+        if (head == null || head.next == null)
             return head;
         // 反转后面的子列表，使用last节点暂存
         ListNode last = reverseList(head.next);
