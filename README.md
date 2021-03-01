@@ -11,7 +11,7 @@
 - [6. 交换链表中的相邻结点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/) `24. 两两交换链表中的节点` `中等` `三指针` `递归` ×
 - [7. 链表求和](https://leetcode-cn.com/problems/add-two-numbers-ii/description/) `445. 两数相加 II` `中等` `栈` √
 - [8. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/) `234. 回文链表` `简单` `快慢指针` `链表反转` ×
-- [9. 分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/description/)
+- [9. 分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/description/) `725. 分隔链表` `中等` `截断链表` √
 - [10. 链表元素按奇偶聚集](https://leetcode-cn.com/problems/odd-even-linked-list/description/)
 
 ## 树
