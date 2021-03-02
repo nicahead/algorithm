@@ -1,5 +1,6 @@
 package 树;
 
+// 404. 左叶子之和
 public class T404 {
     static class TreeNode {
         int val;
@@ -37,7 +38,7 @@ public class T404 {
             return 0;
         }
         if (root.left == null && root.right == null) {
-            if (isLeft == true) {
+            if (isLeft) {
                 return root.val;
             } else {
                 return 0;

@@ -1,5 +1,6 @@
 package 链表;
 
+//24. 两两交换链表中的节点
 public class T24 {
     static class ListNode {
         int val;
@@ -30,6 +31,7 @@ public class T24 {
         t.swapPairs(l1);
         System.out.println();
     }
+
     // 三指针迭代
     public ListNode swapPairs(ListNode head) {
         ListNode prehead = new ListNode(-1, head);

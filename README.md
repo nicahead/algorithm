@@ -12,22 +12,22 @@
 - [7. 链表求和](https://leetcode-cn.com/problems/add-two-numbers-ii/description/) `445. 两数相加 II` `中等` `栈` √
 - [8. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/) `234. 回文链表` `简单` `快慢指针` `链表反转` ×
 - [9. 分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/description/) `725. 分隔链表` `中等` `截断链表` √
-- [10. 链表元素按奇偶聚集](https://leetcode-cn.com/problems/odd-even-linked-list/description/)
+- [10. 链表元素按奇偶聚集](https://leetcode-cn.com/problems/odd-even-linked-list/description/) `328. 奇偶链表` `中等` √
 
 ## 树
 
 - 递归
-    - [1. 树的高度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) √
-    - [2. 平衡树](https://leetcode-cn.com/problems/balanced-binary-tree/description/) √
-    - [3. 两节点的最长路径](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/) √
-    - [4. 翻转树](https://leetcode-cn.com/problems/invert-binary-tree/description/) √
-    - [5. 归并两棵树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/) √
-    - [6. 判断路径和是否等于一个数](https://leetcode-cn.com/problems/path-sum/description/) √
-    - [7. 统计路径和等于一个数的路径数量](https://leetcode-cn.com/problems/path-sum-iii/description/) √
-    - [8. 子树](https://leetcode-cn.com/problems/subtree-of-another-tree/description/) √
-    - [9. 树的对称](https://leetcode-cn.com/problems/symmetric-tree/description/) √
-    - [10. 最小路径](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/description/) √
-    - [11. 统计左叶子节点的和](https://leetcode-cn.com/problems/sum-of-left-leaves/description/) √
+    - [1. 树的高度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) `104. 二叉树的最大深度` `简单` `递归` √
+    - [2. 平衡树](https://leetcode-cn.com/problems/balanced-binary-tree/description/) `110. 平衡二叉树` `简单` `遍历` `深度` √
+    - [3. 两节点的最长路径](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/) `543. 二叉树的直径` `简单` √
+    - [4. 翻转树](https://leetcode-cn.com/problems/invert-binary-tree/description/) `226. 翻转二叉树` `简单` √
+    - [5. 归并两棵树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/) `617. 合并二叉树` `简单` √
+    - [6. 判断路径和是否等于一个数](https://leetcode-cn.com/problems/path-sum/description/) `112. 路径总和` `简单` √
+    - [7. 统计路径和等于一个数的路径数量](https://leetcode-cn.com/problems/path-sum-iii/description/) `437. 路径总和 III` `中等` √
+    - [8. 子树](https://leetcode-cn.com/problems/subtree-of-another-tree/description/) `572. 另一个树的子树` `简单` √
+    - [9. 树的对称](https://leetcode-cn.com/problems/symmetric-tree/description/) `101. 对称二叉树` `简单` √
+    - [10. 最小路径](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/description/) `111. 二叉树的最小深度` `简单` √
+    - [11. 统计左叶子节点的和](https://leetcode-cn.com/problems/sum-of-left-leaves/description/) `404. 左叶子之和` `简单` √
     - [12. 相同节点值的最大路径长度](https://leetcode-cn.com/problems/longest-univalue-path/)
     - [13. 间隔遍历](https://leetcode-cn.com/problems/house-robber-iii/description/)
     - [14. 找出二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/description/)
