@@ -2,6 +2,7 @@ package 栈和队列;
 
 import java.util.Stack;
 
+//232. 用栈实现队列
 public class T232 {
 
     private Stack<Integer> s1;  // 逆序存储
