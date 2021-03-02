@@ -54,7 +54,7 @@
     - [2. 实现一个 Trie，用来求前缀和](https://leetcode-cn.com/problems/map-sum-pairs/description/)
 ## 栈和队列
 
-- [1. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/)
+- [1. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/) `232. 用栈实现队列` `简单` √
 - [2. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/description/)
 - [3. 最小值栈](https://leetcode-cn.com/problems/min-stack/description/)
 - [4. 用栈实现括号匹配](https://leetcode-cn.com/problems/valid-parentheses/description/)
