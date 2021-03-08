@@ -83,7 +83,7 @@
 ## 数组与矩阵
 
 - [1. 把数组中的 0 移到末尾](https://leetcode-cn.com/problems/move-zeroes/description/) `283. 移动零` `简单` `双指针`  √
-- [2. 改变矩阵维度](https://leetcode-cn.com/problems/reshape-the-matrix/description/)
+- [2. 改变矩阵维度](https://leetcode-cn.com/problems/reshape-the-matrix/description/) `566. 重塑矩阵` `简单` √
 - [3. 找出数组中最长的连续 1](https://leetcode-cn.com/problems/max-consecutive-ones/description/)
 - [4. 有序矩阵查找](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/)
 - [5. 有序矩阵的 Kth Element](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)
