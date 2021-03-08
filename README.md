@@ -74,7 +74,7 @@
 - [2. 字符串循环移位](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 字符串.md#2-字符串循环移位)
 - [3. 字符串中单词的翻转](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 字符串.md#3-字符串中单词的翻转)
 - [4. 两个字符串包含的字符是否完全相同](https://leetcode-cn.com/problems/valid-anagram/description/) `242. 有效的字母异位词` `简单` `字符数组` `Arrays工具类` √
-- [5. 计算一组字符集合可以组成的回文字符串的最大长度](https://leetcode-cn.com/problems/longest-palindrome/description/)
+- [5. 计算一组字符集合可以组成的回文字符串的最大长度](https://leetcode-cn.com/problems/longest-palindrome/description/) `409. 最长回文串` `简单` `int数组计数` √
 - [6. 字符串同构](https://leetcode-cn.com/problems/isomorphic-strings/description/)
 - [7. 回文子字符串个数](https://leetcode-cn.com/problems/palindromic-substrings/description/)
 - [8. 判断一个整数是否是回文数](https://leetcode-cn.com/problems/palindrome-number/description/)
