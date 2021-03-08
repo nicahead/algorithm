@@ -63,7 +63,7 @@
 
 ## 哈希表
 
-- [1. 数组中两个数的和为给定值](https://leetcode-cn.com/problems/two-sum/description/)
+- [1. 数组中两个数的和为给定值](https://leetcode-cn.com/problems/two-sum/description/) `1. 两数之和` `简单` √
 - [2. 判断数组是否含有重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/)
 - [3. 最长和谐序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/description/)
 - [4. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/description/)
