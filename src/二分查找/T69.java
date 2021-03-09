@@ -1,6 +1,7 @@
 package 二分查找;
 
 //69. x 的平方根
+//寻找右侧边界
 public class T69 {
     // x平方根的整数部分ans是满足 k^2 小于等于x的最大 k 值
     public int mySqrt(int x) {
