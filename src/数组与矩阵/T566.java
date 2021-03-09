@@ -15,6 +15,6 @@ public class T566 {
     public static void main(String[] args) {
         int[][] nums = new int[][]{{1, 2}, {3, 4}};
         T566 t566 = new T566();
-        int[][] ints = t566.matrixReshape(nums, 1, 4);
+        t566.matrixReshape(nums, 1, 4);
     }
 }
