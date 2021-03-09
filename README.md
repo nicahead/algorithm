@@ -161,7 +161,7 @@
 
 ## 二分查找
 
-- [1. 求开方](https://leetcode-cn.com/problems/sqrtx/description/)
+- [1. 求开方](https://leetcode-cn.com/problems/sqrtx/description/) `69. x 的平方根` `简单` √
 - [2. 大于给定元素的最小元素](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/description/)
 - [3. 有序数组的 Single Element](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/description/)
 - [4. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/)
