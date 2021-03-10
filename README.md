@@ -205,7 +205,7 @@
 ## 动态规划
 
 - 斐波那契数列
-    - [1. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/)
+    - [1. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/) `70. 爬楼梯` `简单` √
     - [2. 强盗抢劫](https://leetcode-cn.com/problems/house-robber/description/)
     - [3. 强盗在环形街区抢劫](https://leetcode-cn.com/problems/house-robber-ii/description/)
     - [4. 信件错排](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 动态规划.md#4-信件错排)
