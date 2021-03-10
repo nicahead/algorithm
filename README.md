@@ -230,7 +230,7 @@
     - [1. 划分数组为和相等的两部分](https://leetcode-cn.com/problems/partition-equal-subset-sum/description/)
     - [2. 改变一组数的正负号使得它们的和为一给定数](https://leetcode-cn.com/problems/target-sum/description/)
     - [3. 01 字符构成最多的字符串](https://leetcode-cn.com/problems/ones-and-zeroes/description/)
-    - [4. 找零钱的最少硬币数](https://leetcode-cn.com/problems/coin-change/description/)
+    - [4. 找零钱的最少硬币数](https://leetcode-cn.com/problems/coin-change/description/) `322. 零钱兑换` `中等` ×
     - [5. 找零钱的硬币数组合](https://leetcode-cn.com/problems/coin-change-2/description/)
     - [6. 字符串按单词列表分割](https://leetcode-cn.com/problems/word-break/description/)
     - [7. 组合总和](https://leetcode-cn.com/problems/combination-sum-iv/description/)
