@@ -164,7 +164,7 @@
 - [1. 求开方](https://leetcode-cn.com/problems/sqrtx/description/) `69. x 的平方根` `简单` `寻找右侧边界` √
 - [2. 大于给定元素的最小元素](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/description/) `744. 寻找比目标字母大的最小字母` `简单` `寻找左侧边界` √
 - [3. 有序数组的 Single Element](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/description/) `540. 有序数组中的单一元素` `中等` ×
-- [4. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/)
+- [4. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/) `278. 第一个错误的版本` `简单` √
 - [5. 旋转数组的最小数字](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/description/)
 - [6. 查找区间](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
