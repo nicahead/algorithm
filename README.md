@@ -1,4 +1,5 @@
 # algorithm
+
 # 数据结构
 
 ## 链表
@@ -6,8 +7,10 @@
 - [1.找出两个链表的交点](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/) `160. 相交链表` `简单` `双指针` √
 - [2. 链表反转](https://leetcode-cn.com/problems/reverse-linked-list/description/) `206. 反转链表` `简单` `递归` √
 - [3. 归并两个有序的链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/) `21. 合并两个有序链表` `简单` `双指针` `递归` √
-- [4. 从有序链表中删除重复节点](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) `83. 删除排序链表中的重复元素` `简单` √
-- [5. 删除链表的倒数第 n 个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/) `19. 删除链表的倒数第 N 个结点` `中等` `快慢指针` √
+- [4. 从有序链表中删除重复节点](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) `83. 删除排序链表中的重复元素` `简单`
+  √
+- [5. 删除链表的倒数第 n 个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/) `19. 删除链表的倒数第 N 个结点` `中等` `快慢指针`
+  √
 - [6. 交换链表中的相邻结点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/) `24. 两两交换链表中的节点` `中等` `三指针` `递归` ×
 - [7. 链表求和](https://leetcode-cn.com/problems/add-two-numbers-ii/description/) `445. 两数相加 II` `中等` `栈` √
 - [8. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/) `234. 回文链表` `简单` `快慢指针` `链表反转` ×
@@ -52,6 +55,7 @@
 - Trie
     - [1. 实现一个 Trie](https://leetcode-cn.com/problems/implement-trie-prefix-tree/description/)
     - [2. 实现一个 Trie，用来求前缀和](https://leetcode-cn.com/problems/map-sum-pairs/description/)
+
 ## 栈和队列
 
 - [1. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/) `232. 用栈实现队列` `简单` √
@@ -73,8 +77,10 @@
 - [1. 字符串循环移位包含](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 字符串.md#1-字符串循环移位包含)
 - [2. 字符串循环移位](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 字符串.md#2-字符串循环移位)
 - [3. 字符串中单词的翻转](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 字符串.md#3-字符串中单词的翻转)
-- [4. 两个字符串包含的字符是否完全相同](https://leetcode-cn.com/problems/valid-anagram/description/) `242. 有效的字母异位词` `简单` `字符数组` `Arrays工具类` √
-- [5. 计算一组字符集合可以组成的回文字符串的最大长度](https://leetcode-cn.com/problems/longest-palindrome/description/) `409. 最长回文串` `简单` `int数组计数` √
+- [4. 两个字符串包含的字符是否完全相同](https://leetcode-cn.com/problems/valid-anagram/description/) `242. 有效的字母异位词` `简单` `字符数组` `Arrays工具类`
+  √
+- [5. 计算一组字符集合可以组成的回文字符串的最大长度](https://leetcode-cn.com/problems/longest-palindrome/description/) `409. 最长回文串` `简单` `int数组计数`
+  √
 - [6. 字符串同构](https://leetcode-cn.com/problems/isomorphic-strings/description/)
 - [7. 回文子字符串个数](https://leetcode-cn.com/problems/palindromic-substrings/description/)
 - [8. 判断一个整数是否是回文数](https://leetcode-cn.com/problems/palindrome-number/description/)
@@ -160,10 +166,14 @@
 - [11. 分隔字符串使同种字符出现在一起](https://leetcode-cn.com/problems/partition-labels/description/)
 
 ## 二分查找
+
 [https://www.cnblogs.com/kyoner/p/11080078.html](https://www.cnblogs.com/kyoner/p/11080078.html)
+
 - [1. 求开方](https://leetcode-cn.com/problems/sqrtx/description/) `69. x 的平方根` `简单` `寻找右侧边界` √
-- [2. 大于给定元素的最小元素](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/description/) `744. 寻找比目标字母大的最小字母` `简单` `寻找左侧边界` √
-- [3. 有序数组的 Single Element](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/description/) `540. 有序数组中的单一元素` `中等` ×
+- [2. 大于给定元素的最小元素](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/description/) `744. 寻找比目标字母大的最小字母` `简单` `寻找左侧边界`
+  √
+- [3. 有序数组的 Single Element](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/description/) `540. 有序数组中的单一元素` `中等`
+  ×
 - [4. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/) `278. 第一个错误的版本` `简单` √
 - [5. 旋转数组的最小数字](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/description/)
 - [6. 查找区间](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
@@ -203,19 +213,24 @@
     - [15. N 皇后](https://leetcode-cn.com/problems/n-queens/description/)
 
 ## 动态规划
->    **四个组成部分**
+
+> **四个组成部分**
 > 1. 确定状态
->   - 研究最优策略的最后一步
+     >
+- 研究最优策略的最后一步
 >   - 化为子问题
 >
 > 2. 转移方程
->   - 根据子问题定义直接得到
+     >
+- 根据子问题定义直接得到
 >
 > 3. 初始条件和边界情况
->   - 细心，考虑周全
+     >
+- 细心，考虑周全
 >
 > 4. 计算顺序
->   - 利用之前的结果
+     >
+- 利用之前的结果
 >
 
 - 斐波那契数列
@@ -225,10 +240,10 @@
     - [4. 信件错排](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 动态规划.md#4-信件错排)
     - [5. 母牛生产](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 动态规划.md#5-母牛生产)
 - 矩阵路径
-    - [1. 矩阵的最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/description/)
+    - [1. 矩阵的最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/description/) `64. 最小路径和` `中等` √
     - [2. 矩阵的总路径数](https://leetcode-cn.com/problems/unique-paths/description/) `62. 不同路径` `中等` `计数型动态规划` ×
 - 数组区间
-    - [1. 数组区间和](https://leetcode-cn.com/problems/range-sum-query-immutable/description/) 
+    - [1. 数组区间和](https://leetcode-cn.com/problems/range-sum-query-immutable/description/)
     - [2. 数组中等差递增子区间的个数](https://leetcode-cn.com/problems/arithmetic-slices/description/)
 - 分割整数
     - [1. 分割整数的最大乘积](https://leetcode-cn.com/problems/integer-break/description/)
@@ -259,6 +274,7 @@
     - [3. 复制粘贴字符](https://leetcode-cn.com/problems/2-keys-keyboard/description/)
 - 存在型动态规划
     - [1. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) `55. 跳跃游戏` `中等` √
+
 ## 数学
 
 - [素数分解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 数学.md#素数分解)
