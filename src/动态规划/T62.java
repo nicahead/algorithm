@@ -4,7 +4,7 @@ package 动态规划;
 //计数型动态规划
 public class T62 {
     public int uniquePaths(int m, int n) {
-        // 1.使用数组记录
+        // 1.使用数组记录 dp[i]代表能否跳到第i个格子
         int[][] dp = new int[m][n];
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {

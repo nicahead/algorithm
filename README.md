@@ -203,18 +203,32 @@
     - [15. N 皇后](https://leetcode-cn.com/problems/n-queens/description/)
 
 ## 动态规划
+>    **四个组成部分**
+> 1. 确定状态
+>   - 研究最优策略的最后一步
+>   - 化为子问题
+>
+> 2. 转移方程
+>   - 根据子问题定义直接得到
+>
+> 3. 初始条件和边界情况
+>   - 细心，考虑周全
+>
+> 4. 计算顺序
+>   - 利用之前的结果
+>
 
 - 斐波那契数列
     - [1. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/) `70. 爬楼梯` `简单` √
-    - [2. 强盗抢劫](https://leetcode-cn.com/problems/house-robber/description/)
+    - [2. 强盗抢劫](https://leetcode-cn.com/problems/house-robber/description/) `198. 打家劫舍` `中等` √
     - [3. 强盗在环形街区抢劫](https://leetcode-cn.com/problems/house-robber-ii/description/)
     - [4. 信件错排](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 动态规划.md#4-信件错排)
     - [5. 母牛生产](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 动态规划.md#5-母牛生产)
 - 矩阵路径
     - [1. 矩阵的最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/description/)
-    - [2. 矩阵的总路径数](https://leetcode-cn.com/problems/unique-paths/description/)
+    - [2. 矩阵的总路径数](https://leetcode-cn.com/problems/unique-paths/description/) `62. 不同路径` `中等` `计数型动态规划` ×
 - 数组区间
-    - [1. 数组区间和](https://leetcode-cn.com/problems/range-sum-query-immutable/description/) `62. 不同路径` `中等` `计数型动态规划` ×
+    - [1. 数组区间和](https://leetcode-cn.com/problems/range-sum-query-immutable/description/) 
     - [2. 数组中等差递增子区间的个数](https://leetcode-cn.com/problems/arithmetic-slices/description/)
 - 分割整数
     - [1. 分割整数的最大乘积](https://leetcode-cn.com/problems/integer-break/description/)
@@ -243,7 +257,8 @@
     - [1. 删除两个字符串的字符使它们相等](https://leetcode-cn.com/problems/delete-operation-for-two-strings/description/)
     - [2. 编辑距离](https://leetcode-cn.com/problems/edit-distance/description/)
     - [3. 复制粘贴字符](https://leetcode-cn.com/problems/2-keys-keyboard/description/)
-
+- 存在型动态规划
+    - [1. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
 ## 数学
 
 - [素数分解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 数学.md#素数分解)
