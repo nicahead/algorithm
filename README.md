@@ -214,7 +214,7 @@
     - [1. 矩阵的最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/description/)
     - [2. 矩阵的总路径数](https://leetcode-cn.com/problems/unique-paths/description/)
 - 数组区间
-    - [1. 数组区间和](https://leetcode-cn.com/problems/range-sum-query-immutable/description/)
+    - [1. 数组区间和](https://leetcode-cn.com/problems/range-sum-query-immutable/description/) `62. 不同路径` `中等` `计数型动态规划` ×
     - [2. 数组中等差递增子区间的个数](https://leetcode-cn.com/problems/arithmetic-slices/description/)
 - 分割整数
     - [1. 分割整数的最大乘积](https://leetcode-cn.com/problems/integer-break/description/)
@@ -230,7 +230,7 @@
     - [1. 划分数组为和相等的两部分](https://leetcode-cn.com/problems/partition-equal-subset-sum/description/)
     - [2. 改变一组数的正负号使得它们的和为一给定数](https://leetcode-cn.com/problems/target-sum/description/)
     - [3. 01 字符构成最多的字符串](https://leetcode-cn.com/problems/ones-and-zeroes/description/)
-    - [4. 找零钱的最少硬币数](https://leetcode-cn.com/problems/coin-change/description/) `322. 零钱兑换` `中等` ×
+    - [4. 找零钱的最少硬币数](https://leetcode-cn.com/problems/coin-change/description/) `322. 零钱兑换` `中等` `最值型动态规划` ×
     - [5. 找零钱的硬币数组合](https://leetcode-cn.com/problems/coin-change-2/description/)
     - [6. 字符串按单词列表分割](https://leetcode-cn.com/problems/word-break/description/)
     - [7. 组合总和](https://leetcode-cn.com/problems/combination-sum-iv/description/)

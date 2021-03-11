@@ -1,6 +1,7 @@
 package 动态规划;
 
 //322. 零钱兑换
+//最值型动态规划
 public class T322 {
     public int coinChange(int[] coins, int amount) {
         // 0...amount
