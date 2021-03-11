@@ -258,7 +258,7 @@
     - [2. 编辑距离](https://leetcode-cn.com/problems/edit-distance/description/)
     - [3. 复制粘贴字符](https://leetcode-cn.com/problems/2-keys-keyboard/description/)
 - 存在型动态规划
-    - [1. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
+    - [1. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) `55. 跳跃游戏` `中等` √
 ## 数学
 
 - [素数分解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 数学.md#素数分解)
