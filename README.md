@@ -248,7 +248,7 @@
 - 最长递增子序列
     - [1. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/description/) `300. 最长递增子序列` `中等` ×
     - [2. 一组整数对能够构成的最长链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/description/) `646. 最长数对链` `中等` ×
-    - [3. 最长摆动子序列](https://leetcode-cn.com/problems/wiggle-subsequence/description/)
+    - [3. 最长摆动子序列](https://leetcode-cn.com/problems/wiggle-subsequence/description/) `376. 摆动序列` `中等` `双dp` ×
 - 最长公共子序列
     - [1. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
 - 0-1 背包
