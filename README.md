@@ -216,21 +216,17 @@
 
 > **四个组成部分**
 > 1. 确定状态
-     >
-- 研究最优策略的最后一步
->   - 化为子问题
+>     - 研究最优策略的最后一步
+>     - 化为子问题
 >
 > 2. 转移方程
-     >
-- 根据子问题定义直接得到
+>     - 根据子问题定义直接得到
 >
 > 3. 初始条件和边界情况
-     >
-- 细心，考虑周全
+>     - 细心，考虑周全
 >
 > 4. 计算顺序
-     >
-- 利用之前的结果
+>     - 利用之前的结果
 >
 
 - 斐波那契数列
@@ -250,7 +246,7 @@
     - [2. 按平方数来分割整数](https://leetcode-cn.com/problems/perfect-squares/description/)
     - [3. 分割整数构成字母字符串](https://leetcode-cn.com/problems/decode-ways/description/)
 - 最长递增子序列
-    - [1. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/description/)
+    - [1. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/description/) `300. 最长递增子序列` `中等` ×
     - [2. 一组整数对能够构成的最长链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/description/)
     - [3. 最长摆动子序列](https://leetcode-cn.com/problems/wiggle-subsequence/description/)
 - 最长公共子序列
