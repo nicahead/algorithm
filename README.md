@@ -250,7 +250,7 @@
     - [2. 一组整数对能够构成的最长链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/description/) `646. 最长数对链` `中等` ×
     - [3. 最长摆动子序列](https://leetcode-cn.com/problems/wiggle-subsequence/description/) `376. 摆动序列` `中等` `双dp` ×
 - 最长公共子序列
-    - [1. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
+    - [1. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) `1143. 最长公共子序列` `中等` `二维动态规划` ×
 - 0-1 背包
     - [1. 划分数组为和相等的两部分](https://leetcode-cn.com/problems/partition-equal-subset-sum/description/)
     - [2. 改变一组数的正负号使得它们的和为一给定数](https://leetcode-cn.com/problems/target-sum/description/)
