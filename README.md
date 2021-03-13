@@ -157,7 +157,7 @@
 - [2. 不重叠的区间个数](https://leetcode-cn.com/problems/non-overlapping-intervals/description/) `435. 无重叠区间` `中等` ×
 - [3. 投飞镖刺破气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) `452. 用最少数量的箭引爆气球` `中等` `排序` `贪心` ×
 - [4. 根据身高和序号重组队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/description/) `406. 根据身高重建队列` `中等` `排序` `贪心` ×
-- [5. 买卖股票最大的收益](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/)
+- [5. 买卖股票最大的收益](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/) `121. 买卖股票的最佳时机` `简单` √
 - [6. 买卖股票的最大收益 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 - [7. 种植花朵](https://leetcode-cn.com/problems/can-place-flowers/description/)
 - [8. 判断是否为子序列](https://leetcode-cn.com/problems/is-subsequence/description/)
