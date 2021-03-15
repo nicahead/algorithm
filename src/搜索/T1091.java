@@ -31,7 +31,7 @@ public class T1091 {
                 int newX = xy[0] + directions[i][0];
                 // 纵轴新坐标
                 int newY = xy[1] + directions[i][1];
-                // 条件判断，过滤掉不符合条件的位置。新坐标合法，且是畅通路径
+                // 条件判断，过滤掉不符合条件的位置。新坐标合法，且是畅通路径(grid[newX][newY] == 0也可以保证走过的路不会再走，即不会往回走)
                 if (isLegal(newX, newY, m, n) && grid[newX][newY] == 0) {
                     // 新节点入栈
                     queue.offer(new int[]{newX, newY});

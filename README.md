@@ -190,7 +190,7 @@
     - [2. 组成整数的最小平方数数量](https://leetcode-cn.com/problems/perfect-squares/description/)
     - [3. 最短单词路径](https://leetcode-cn.com/problems/word-ladder/description/)
 - DFS
-    - [1. 查找最大的连通面积](https://leetcode-cn.com/problems/max-area-of-island/description/)
+    - [1. 查找最大的连通面积](https://leetcode-cn.com/problems/max-area-of-island/description/) `695. 岛屿的最大面积` `中等` ×
     - [2. 矩阵中的连通分量数目](https://leetcode-cn.com/problems/number-of-islands/description/)
     - [3. 好友关系的连通分量数目](https://leetcode-cn.com/problems/friend-circles/description/)
     - [4. 填充封闭区域](https://leetcode-cn.com/problems/surrounded-regions/description/)
