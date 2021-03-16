@@ -302,3 +302,4 @@
   - [1. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) `剑指 Offer 09. 用两个栈实现队列` `简单` `栈` `队列` √
   - [2. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) `剑指 Offer 10- I. 斐波那契数列` `简单` `动态规划` √
   - [3. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) `剑指 Offer 03. 数组中重复的数字` `简单` `哈希表` √
+  - [4. 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) `剑指 Offer 04. 二维数组中的查找` `中等` `数组` `二叉搜索树` √
