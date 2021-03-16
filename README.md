@@ -299,4 +299,5 @@
     - [4. 找出数组中的乘积最大的三个数](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/description/)
 
 # 剑指offer
-  - [1. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) `剑指 Offer 09. 用两个栈实现队列` `简单` √
+  - [1. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) `剑指 Offer 09. 用两个栈实现队列` `简单` `栈` `队列` √
+  - [2. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) `剑指 Offer 10- I. 斐波那契数列` `简单` `动态规划` √
