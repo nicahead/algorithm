@@ -297,3 +297,6 @@
     - [2. 3 的 n 次方](https://leetcode-cn.com/problems/power-of-three/description/)
     - [3. 乘积数组](https://leetcode-cn.com/problems/product-of-array-except-self/description/)
     - [4. 找出数组中的乘积最大的三个数](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/description/)
+
+# 剑指offer
+  - [1. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) `剑指 Offer 09. 用两个栈实现队列` `简单` √
