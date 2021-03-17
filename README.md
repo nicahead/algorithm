@@ -307,3 +307,4 @@
   - [6. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) `剑指 Offer 11. 旋转数组的最小数字` `中等` `二分查找` ×
   - [7. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) `剑指 Offer 12. 矩阵中的路径` `中等` `dfs搜索` ×
   - [8. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) `剑指 Offer 05. 替换空格` `简单` `字符串` √
+  - [9. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) `剑指 Offer 13. 机器人的运动范围` `中等` `搜索` `DFS` √
