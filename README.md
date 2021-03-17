@@ -309,3 +309,4 @@
   - [8. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) `剑指 Offer 05. 替换空格` `简单` `字符串` √
   - [9. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) `剑指 Offer 13. 机器人的运动范围` `中等` `搜索` `DFS` √
   - [10. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) `剑指 Offer 06. 从尾到头打印链表` `简单` `链表` `栈` √
+  - [11. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) `剑指 Offer 07. 重建二叉树` `中等` `二叉树遍历` × 太难了...
