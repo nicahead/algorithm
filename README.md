@@ -311,4 +311,6 @@
   - [10. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) `剑指 Offer 06. 从尾到头打印链表` `简单` `链表` `栈` √
   - [11. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) `剑指 Offer 07. 重建二叉树` `中等` `二叉树遍历` × 太难了...
   - [12. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) `剑指 Offer 14- I. 剪绳子` `中等` `动态规划` × 做到这里前面做的dp都忘了...
+  - [13. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)
   - [14. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) `剑指 Offer 25. 合并两个排序的链表` `简单` `双指针` `尾插法` √
+  - [15. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) `剑指 Offer 26. 树的子结构` `中等` `遍历` `递归` √
