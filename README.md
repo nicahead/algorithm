@@ -318,3 +318,4 @@
   - [17. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) `剑指 Offer 28. 对称的二叉树` `简单` `遍历` `递归` √
   - [18. 表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) `剑指 Offer 20. 表示数值的字符串` `中等` ...
   - [19. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) `剑指 Offer 21. 调整数组顺序使奇数位于偶数前面` `简单` `双指针` √
+  - [20. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) `剑指 Offer 15. 二进制中1的个数` `简单` `位运算` ×
