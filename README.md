@@ -321,3 +321,4 @@
   - [20. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) `剑指 Offer 15. 二进制中1的个数` `简单` `位运算` ×
   - [21. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) `剑指 Offer 29. 顺时针打印矩阵` `中等` `数组` ×
   - [22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) `剑指 Offer 22. 链表中倒数第k个节点` `简单` `快慢指针` √
+  - [23. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) `剑指 Offer 16. 数值的整数次方` `中等` `快速幂` ×

@@ -1,37 +1,28 @@
 package 剑指offer;
 
-//剑指 Offer 26. 树的子结构
+//剑指 Offer 16. 数值的整数次方
+//非递归快速幂 https://zhuanlan.zhihu.com/p/95902286
 public class JZ16 {
-    class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
+    public double myPow(double x, int n) {
+        if (x == 0) return 0;
+        // Java 代码中 int32 变量 n ∈ [−2147483648,2147483647]
+        // 因此当 n = -2147483648 时执行 n = -n 会因越界而赋值出错。解决方法是先将 n 存入 long 变量 b ，后面用 b 操作即可。
+        long b = n;
+        double res = 1;
+        // 若n为负数，先转化
+        if (b < 0) {
+            b = -b;
+            x = 1 / x;
         }
-    }
-
-    public boolean isSubStructure(TreeNode A, TreeNode B) {
-        if (A == null || B == null) {
-            return false;
-        } else {
-            // 若根节点不匹配，则向子节点寻找
-            return help(A, B) || isSubStructure(A.left, B) || isSubStructure(A.right, B);
+        while (b != 0) {
+            // 如果n的二进制形式最后一位是1
+            if ((b & 1) == 1) {
+                res = res * x;
+            }
+            // n二进制右移一位(删除最后一位)，则底数x需要平方
+            b = b >> 1;
+            x = x * x;
         }
-    }
-
-    private boolean help(TreeNode A, TreeNode B) {
-        // B遍历完成，说明匹配成功
-        if (B == null) {
-            return true;
-        }
-        // A遍历完成，此时B肯定还有节点，说明匹配失败
-        if (A == null || A.val != B.val) {
-            return false;
-        }
-        boolean res = true;
-        // 当前节点匹配，且左右子树也匹配
-        return help(A.left, B.left) && help(A.right, B.right);
+        return res;
     }
 }
