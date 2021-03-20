@@ -322,3 +322,4 @@
   - [21. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) `剑指 Offer 29. 顺时针打印矩阵` `中等` `数组` ×
   - [22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) `剑指 Offer 22. 链表中倒数第k个节点` `简单` `快慢指针` √
   - [23. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) `剑指 Offer 16. 数值的整数次方` `中等` `快速幂` ×
+  - [24. 打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) `剑指 Offer 17. 打印从1到最大的n位数` `中等` `大数` `全排列` `回溯` ×
