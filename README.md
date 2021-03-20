@@ -327,3 +327,4 @@
   - [26. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) `剑指 Offer 18. 删除链表的节点` `简单` √
   - [27. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) `剑指 Offer 35. 复杂链表的复制` `中等` `哈希表` ×
   - [28. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) `剑指 Offer 40. 最小的k个数` `中等` `topk问题` `快速排序` × 快排再看看，别的方法尝试一下
+  - [29. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) `剑指 Offer 30. 包含min函数的栈` `简单` `栈` √
