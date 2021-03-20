@@ -325,3 +325,4 @@
   - [24. 打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) `剑指 Offer 17. 打印从1到最大的n位数` `中等` `大数` `全排列` `回溯` ×
   - [25. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) `剑指 Offer 24. 反转链表` `简单` `迭代头插法` `递归` ×
   - [26. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) `剑指 Offer 18. 删除链表的节点` `简单` √
+  - [27. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) `剑指 Offer 35. 复杂链表的复制` `中等` `哈希表` ×
