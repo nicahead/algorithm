@@ -328,3 +328,4 @@
   - [27. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) `剑指 Offer 35. 复杂链表的复制` `中等` `哈希表` ×
   - [28. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) `剑指 Offer 40. 最小的k个数` `中等` `topk问题` `快速排序` × 快排再看看，别的方法尝试一下
   - [29. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) `剑指 Offer 30. 包含min函数的栈` `简单` `栈` √
+  - [30. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) `剑指 Offer 42. 连续子数组的最大和` `简单` `动态规划` ×
