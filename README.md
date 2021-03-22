@@ -330,3 +330,4 @@
   - [29. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) `剑指 Offer 30. 包含min函数的栈` `简单` `栈` √
   - [30. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) `剑指 Offer 42. 连续子数组的最大和` `简单` `动态规划` ×
   - [31. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) `剑指 Offer 34. 二叉树中和为某一值的路径` `中等` `回溯` × 回溯还需要练习一下
+  - [32. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) `剑指 Offer 68 - I. 二叉搜索树的最近公共祖先` `简单` `二叉搜索树` √
