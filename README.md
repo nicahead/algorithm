@@ -333,3 +333,4 @@
   - [32. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) `剑指 Offer 68 - I. 二叉搜索树的最近公共祖先` `简单` `二叉搜索树` √
   - [33. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) `剑指 Offer 68 - II. 二叉树的最近公共祖先` `中等` `后序遍历` ×
   - [34. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) `剑指 Offer 36. 二叉搜索树与双向链表` `中等` `中序遍历` `二叉搜索树` `双链表` ×
+  - [35. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) `剑指 Offer 31. 栈的压入、弹出序列` `中等` `栈` `模拟` √
