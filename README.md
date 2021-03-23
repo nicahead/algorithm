@@ -340,3 +340,4 @@
   - [39. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) `剑指 Offer 32 - II. 从上到下打印二叉树 II` `中等` `层次遍历` √
   - [40. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) `剑指 Offer 32 - III. 从上到下打印二叉树 III` `中等` `分奇偶层次遍历` √
   - [41. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) `剑指 Offer 50. 第一个只出现一次的字符` `简单` `哈希表` √
+  - [42. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) `剑指 Offer 56 - I. 数组中数字出现的次数` `中等`  `位运算` `异或` ×
