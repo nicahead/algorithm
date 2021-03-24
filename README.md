@@ -346,3 +346,4 @@
   - [45. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) `剑指 Offer 55 - II. 平衡二叉树` `简单` `后序遍历` √
   - [46. 构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/) `剑指 Offer 66. 构建乘积数组` `中等` `表格分区` ×
   - [47. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) `剑指 Offer 64. 求1+2+…+n` `中等` `递归` `逻辑运算符短路` ×
+  - [48. 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) `剑指 Offer 63. 股票的最大利润` `中等` `贪心` √
