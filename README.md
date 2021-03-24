@@ -342,3 +342,4 @@
   - [41. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) `剑指 Offer 50. 第一个只出现一次的字符` `简单` `哈希表` √
   - [42. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) `剑指 Offer 56 - I. 数组中数字出现的次数` `中等`  `位运算` `异或` ×
   - [43. 数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) `剑指 Offer 56 - II. 数组中数字出现的次数 II` `中等`  `位运算` ×
+  - [44. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) `剑指 Offer 55 - I. 二叉树的深度` `简单` `递归`
