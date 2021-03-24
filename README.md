@@ -348,4 +348,5 @@
   - [47. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) `剑指 Offer 64. 求1+2+…+n` `中等` `递归` `逻辑运算符短路` ×
   - [48. 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) `剑指 Offer 63. 股票的最大利润` `中等` `贪心` √
   - [48. n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/) `剑指 Offer 60. n个骰子的点数` `中等` `动态规划` × 回溯会超时，有点绕，阿里考过
-  - [49. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) `剑指 Offer 58 - I. 翻转单词顺序` `简单` `双指针`
+  - [49. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) `剑指 Offer 58 - I. 翻转单词顺序` `简单` `双指针` √
+  - [50. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) `剑指 Offer 58 - II. 左旋转字符串` `简单` `字符串` √
