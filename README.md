@@ -345,3 +345,4 @@
   - [44. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) `剑指 Offer 55 - I. 二叉树的深度` `简单` `递归` √
   - [45. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) `剑指 Offer 55 - II. 平衡二叉树` `简单` `后序遍历` √
   - [46. 构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/) `剑指 Offer 66. 构建乘积数组` `中等` `表格分区` ×
+  - [47. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) `剑指 Offer 64. 求1+2+…+n` `中等` `递归` `逻辑运算符短路` ×
