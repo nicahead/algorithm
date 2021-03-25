@@ -350,4 +350,5 @@
   - [48. n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/) `剑指 Offer 60. n个骰子的点数` `中等` `动态规划` × 回溯会超时，有点绕，阿里考过
   - [49. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) `剑指 Offer 58 - I. 翻转单词顺序` `简单` `双指针` √
   - [50. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) `剑指 Offer 58 - II. 左旋转字符串` `简单` `字符串` √
-  - [51. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) `剑指 Offer 44. 数字序列中某一位的数字` `中等` `找规律` 太恶心了这题...
+  - [51. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) `剑指 Offer 44. 数字序列中某一位的数字` `中等` `找规律` × 太恶心了这题...
+  - [52. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) `剑指 Offer 57. 和为s的两个数字` `简单` `哈希表` √
