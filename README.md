@@ -353,3 +353,4 @@
   - [51. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) `剑指 Offer 44. 数字序列中某一位的数字` `中等` `找规律` × 太恶心了这题...
   - [52. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) `剑指 Offer 57. 和为s的两个数字` `简单` `哈希表` √
   - [53. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) `剑指 Offer 57 - II. 和为s的连续正数序列` `简单` `滑动窗口` ×
+  - [54. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) `剑指 Offer 46. 把数字翻译成字符串` `中等` `动态规划` 我是回溯做的，复杂度较高 √
