@@ -365,3 +365,5 @@
   - [63. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) `剑指 Offer 62. 圆圈中最后剩下的数字` `简单` `约瑟夫环` × 当前是用列表模拟做的，需要考虑复杂度更低的做法
   - [64. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) `剑指 Offer 47. 礼物的最大价值` `中等` `动态规划` √
   - [64. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) `剑指 Offer 49. 丑数` `中等` `找规律` `动态规划` ×
+  - [65. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) `剑指 Offer 45. 把数组排成最小的数` `中等`
+  - [66. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) `剑指 Offer 48. 最长不含重复字符的子字符串` `中等` `滑动窗口` √ 书中用的动态规划，回头可以研究一下
