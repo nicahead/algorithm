@@ -364,3 +364,4 @@
   - [62. 扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) `剑指 Offer 61. 扑克牌中的顺子` `简单` `找规律` ×
   - [63. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) `剑指 Offer 62. 圆圈中最后剩下的数字` `简单` `约瑟夫环` × 当前是用列表模拟做的，需要考虑复杂度更低的做法
   - [64. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) `剑指 Offer 47. 礼物的最大价值` `中等` `动态规划` √
+  - [64. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) `剑指 Offer 49. 丑数` `中等` `找规律` `动态规划` ×
