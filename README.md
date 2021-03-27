@@ -359,6 +359,6 @@
   - [57. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) `剑指 Offer 52. 两个链表的第一个公共节点` `简单` `双指针` √
   - [58. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) `剑指 Offer 54. 二叉搜索树的第k大节点` `简单` `二叉搜索树` `中序遍历` ×
   - [59. 不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) `剑指 Offer 65. 不用加减乘除做加法` `简单` `位运算` ×
-  - [60. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)
+  - [60. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) `剑指 Offer 59 - I. 滑动窗口的最大值` `简单` ×
   - [61. 扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) `剑指 Offer 61. 扑克牌中的顺子` `简单` `找规律` ×
-  - [62. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) 
+  - [62. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) `剑指 Offer 62. 圆圈中最后剩下的数字` `简单` `约瑟夫环` × 当前是用列表模拟做的，需要考虑复杂度更低的做法
