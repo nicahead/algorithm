@@ -367,3 +367,4 @@
   - [64. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) `剑指 Offer 49. 丑数` `中等` `找规律` `动态规划` ×
   - [65. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) `剑指 Offer 45. 把数组排成最小的数` `中等`
   - [66. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) `剑指 Offer 48. 最长不含重复字符的子字符串` `中等` `滑动窗口` √ 书中用的动态规划，回头可以研究一下
+  - [67. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) `剑指 Offer 33. 二叉搜索树的后序遍历序列` `中等` `递归` `后续遍历` ×
